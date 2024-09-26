@@ -1,6 +1,10 @@
-```git clone https://github.com/SaujanaDAO/majtod.git```
+```
+git clone https://github.com/SaujanaDAO/majtod.git
+```
 
-```cd majtod```
+```
+cd majtod
+```
 
 ```python3 -m pip install -r requirements.txt```
 
