@@ -1,10 +1,10 @@
-git clone https://github.com/SaujanaDAO/majtod.git
+```git clone https://github.com/SaujanaDAO/majtod.git```
 
-cd majtod
+```cd majtod```
 
-python3 -m pip install -r requirements.txt
+```python3 -m pip install -r requirements.txt```
 
-nano data.txt
+```nano data.txt```
 
-python3 bot.py
+```python3 bot.py```
 
