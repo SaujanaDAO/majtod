@@ -1,4 +1,4 @@
-git clone https://github.com/akasakaid/blumtod.git
+git clone https://github.com/SaujanaDAO/majtod.git
 
 cd majtod
 
